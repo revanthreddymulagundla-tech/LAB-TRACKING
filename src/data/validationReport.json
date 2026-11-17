@@ -1,0 +1,948 @@
+{
+  "sheets": [
+    {
+      "name": "Y25 II BTECH",
+      "yr": "II",
+      "yearLabel": "II B.Tech – Y25",
+      "category": "Regular Lab / Skill",
+      "sourceRows": 244,
+      "rowsWithCourseCode": 235,
+      "events": 235
+    },
+    {
+      "name": "Y24 III BTECH",
+      "yr": "III",
+      "yearLabel": "III B.Tech – Y24",
+      "category": "Regular Lab / Skill",
+      "sourceRows": 425,
+      "rowsWithCourseCode": 421,
+      "events": 421
+    },
+    {
+      "name": "Y23 IV BTECH REG PHY AND CHEM",
+      "yr": "IV",
+      "yearLabel": "IV B.Tech – Y23",
+      "category": "Regular Physics & Chemistry",
+      "sourceRows": 3094,
+      "rowsWithCourseCode": 3094,
+      "events": 546
+    },
+    {
+      "name": "Y23 IV BTECH REG & ADDL COURSES",
+      "yr": "IV",
+      "yearLabel": "IV B.Tech – Y23",
+      "category": "Regular & Additional Courses",
+      "sourceRows": 378,
+      "rowsWithCourseCode": 378,
+      "events": 151
+    },
+    {
+      "name": "Y23 IV BTECH PSICP",
+      "yr": "IV",
+      "yearLabel": "IV B.Tech – Y23",
+      "category": "PS / ICP",
+      "sourceRows": 252,
+      "rowsWithCourseCode": 252,
+      "events": 40
+    }
+  ],
+  "notices": [
+    {
+      "sheet": "Y25 II BTECH",
+      "yr": "II",
+      "row": 237,
+      "text": "Y25 HACKATHON WILL BE SCHEDULED FROM 26 th morning 9.20 AM to 27 th morning 7.00 AM"
+    },
+    {
+      "sheet": "Y24 III BTECH",
+      "yr": "III",
+      "row": 425,
+      "text": "Y24 HACKATHON WILL BE SCHEDULED FROM 27 th EVENING to 28 th AFTERNOON"
+    }
+  ],
+  "sourceRows": 4393,
+  "rowsWithCourseCode": 4380,
+  "events": 1393,
+  "flaggedEvents": [
+    {
+      "id": "E0359",
+      "sheet": "Y24 III BTECH",
+      "section": "S1,S4",
+      "courseCode": "24CS2224F",
+      "date": "2026-11-20",
+      "time": "2:30 PM - 4:30 PM",
+      "sourceRows": [
+        125
+      ],
+      "flags": [
+        "Source lists more than one section in a single row (\"S1,S4\")"
+      ]
+    },
+    {
+      "id": "E0521",
+      "sheet": "Y24 III BTECH",
+      "section": "S51",
+      "courseCode": "24IN3103HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        287
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0522",
+      "sheet": "Y24 III BTECH",
+      "section": "S1",
+      "courseCode": "24CS2253HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        288
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0523",
+      "sheet": "Y24 III BTECH",
+      "section": "S53",
+      "courseCode": "24IN3103HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        289
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0524",
+      "sheet": "Y24 III BTECH",
+      "section": "S52",
+      "courseCode": "24AAS3314EF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        290
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0525",
+      "sheet": "Y24 III BTECH",
+      "section": "S1",
+      "courseCode": "24CS03EF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        291
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0526",
+      "sheet": "Y24 III BTECH",
+      "section": "S1",
+      "courseCode": "24EDS3308HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        292
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0527",
+      "sheet": "Y24 III BTECH",
+      "section": "S53",
+      "courseCode": "24EDS3308HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        293
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0528",
+      "sheet": "Y24 III BTECH",
+      "section": "S2",
+      "courseCode": "24IN3103HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        294
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0529",
+      "sheet": "Y24 III BTECH",
+      "section": "S4",
+      "courseCode": "24IN3103HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        295
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0530",
+      "sheet": "Y24 III BTECH",
+      "section": "S51",
+      "courseCode": "24EC09HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        296
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0531",
+      "sheet": "Y24 III BTECH",
+      "section": "S52",
+      "courseCode": "24CS03EF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        297
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0532",
+      "sheet": "Y24 III BTECH",
+      "section": "S53",
+      "courseCode": "24GMI3202HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        298
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0533",
+      "sheet": "Y24 III BTECH",
+      "section": "S51",
+      "courseCode": "24GMI3202HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        299
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0534",
+      "sheet": "Y24 III BTECH",
+      "section": "S52",
+      "courseCode": "24IN3103HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        300
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0535",
+      "sheet": "Y24 III BTECH",
+      "section": "S1",
+      "courseCode": "24IN3103HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        301
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0536",
+      "sheet": "Y24 III BTECH",
+      "section": "S2",
+      "courseCode": "24EDS3308HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        302
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0537",
+      "sheet": "Y24 III BTECH",
+      "section": "S5",
+      "courseCode": "24IN3103HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        303
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0538",
+      "sheet": "Y24 III BTECH",
+      "section": "S1",
+      "courseCode": "24DLA3303EF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        304
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0539",
+      "sheet": "Y24 III BTECH",
+      "section": "S51",
+      "courseCode": "24EC08HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        305
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0540",
+      "sheet": "Y24 III BTECH",
+      "section": "S51",
+      "courseCode": "24EDS3308HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        306
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0541",
+      "sheet": "Y24 III BTECH",
+      "section": "S1",
+      "courseCode": "24AD07HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        307
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0542",
+      "sheet": "Y24 III BTECH",
+      "section": "S51",
+      "courseCode": "24CS03EF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        308
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0543",
+      "sheet": "Y24 III BTECH",
+      "section": "S51",
+      "courseCode": "24DLA3303EF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        309
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0544",
+      "sheet": "Y24 III BTECH",
+      "section": "S1",
+      "courseCode": "24AAS3314EF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        310
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0545",
+      "sheet": "Y24 III BTECH",
+      "section": "S51",
+      "courseCode": "24CS2253HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        311
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0546",
+      "sheet": "Y24 III BTECH",
+      "section": "S52",
+      "courseCode": "24EDS3308HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        312
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0547",
+      "sheet": "Y24 III BTECH",
+      "section": "S3",
+      "courseCode": "24GMI3202HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        313
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0548",
+      "sheet": "Y24 III BTECH",
+      "section": "S4",
+      "courseCode": "24GMI3202HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        314
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0549",
+      "sheet": "Y24 III BTECH",
+      "section": "S52",
+      "courseCode": "24GMI3202HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        315
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0550",
+      "sheet": "Y24 III BTECH",
+      "section": "S1",
+      "courseCode": "24GMI3202HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        316
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0551",
+      "sheet": "Y24 III BTECH",
+      "section": "S54",
+      "courseCode": "24GMI3202HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        317
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0552",
+      "sheet": "Y24 III BTECH",
+      "section": "S54",
+      "courseCode": "24EDS3308HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        318
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0553",
+      "sheet": "Y24 III BTECH",
+      "section": "S51",
+      "courseCode": "24IN01HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        319
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0554",
+      "sheet": "Y24 III BTECH",
+      "section": "S51",
+      "courseCode": "24AAS3314EF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        320
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0555",
+      "sheet": "Y24 III BTECH",
+      "section": "S52",
+      "courseCode": "24EC09HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        321
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0556",
+      "sheet": "Y24 III BTECH",
+      "section": "S3",
+      "courseCode": "24IN3103HF",
+      "date": "2026-11-26",
+      "time": "2:30 PM - 4:30 AM",
+      "sourceRows": [
+        322
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"2:30 PM - 4:30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0715",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-1-A",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        451,
+        452,
+        453
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0716",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-1-B",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        454,
+        455,
+        456,
+        457,
+        458
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0717",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-2-A",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        459,
+        460,
+        461,
+        462
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0718",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-2-B",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0719",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-3-A",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        470,
+        471,
+        472,
+        473,
+        474,
+        475
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0720",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-3-B",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        476,
+        477,
+        478,
+        479,
+        480
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0721",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-4-A",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        481,
+        482,
+        483,
+        484
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0722",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-4-B",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        485,
+        486,
+        487
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0723",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-5-A",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        488,
+        489,
+        490,
+        491,
+        492
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0724",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-5-B",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        493,
+        494,
+        495,
+        496
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0725",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-51-A",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        497,
+        498
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0726",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-51-B",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        499,
+        500,
+        501
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0727",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-52-A",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        502,
+        503,
+        504
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0728",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-52-B",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0729",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-53-A",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        512,
+        513,
+        514
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0730",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-53-B",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        515,
+        516,
+        517,
+        518,
+        519
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0731",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-54-A",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        520,
+        521,
+        522,
+        523,
+        524
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0732",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-54-B",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0733",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-55-A",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        532,
+        533,
+        534
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0734",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-55-B",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        535,
+        536
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    },
+    {
+      "id": "E0735",
+      "sheet": "Y23 IV BTECH REG PHY AND CHEM",
+      "section": "S-6-A",
+      "courseCode": "22PH4101",
+      "date": "2026-11-16",
+      "time": "11.30 AM TO 1.30 AM",
+      "sourceRows": [
+        537,
+        538,
+        539
+      ],
+      "flags": [
+        "End time is not after start time in the source (\"11.30 AM TO 1.30 AM\") – shown exactly as supplied"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply bg-slate-50 font-sans text-slate-800 antialiased; }
+}
+@layer components {
+  .card { @apply rounded-2xl border border-slate-200/70 bg-white shadow-soft; }
+  .btn { @apply inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 text-sm font-semibold transition-all duration-200 active:scale-[.98] disabled:cursor-not-allowed disabled:opacity-50; }
+  .btn-primary { @apply btn bg-gradient-to-r from-violet-600 to-violet-500 text-white shadow-glow hover:brightness-110; }
+  .btn-ghost { @apply btn border border-slate-200 bg-white text-navy-800 hover:border-violet-300 hover:bg-violet-50; }
+  .btn-sm { @apply px-3.5 py-2 text-xs; }
+  .input { @apply w-full rounded-xl border border-slate-200 bg-white px-4 py-3 text-sm text-slate-800 shadow-sm transition focus:border-violet-500 focus:outline-none focus:ring-4 focus:ring-violet-100 disabled:bg-slate-100 disabled:text-slate-400; }
+  .label { @apply mb-1.5 flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider text-navy-500; }
+  .badge { @apply inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-semibold; }
+}
+.print-only { display: none; }
+@media print {
+  .no-print { display: none !important; }
+  .print-only { display: block !important; }
+  .print-table { display: block !important; }
+  .print-cards { display: none !important; }
+  body { background: #fff; }
+  .card { box-shadow: none !important; }
+  @page { size: landscape; margin: 10mm; }
+}
